@@ -3,9 +3,9 @@
 
 ### **Team Members**
 
-  1. Srijan Sankrit (IITG)
+  1. Kushagra Pandey (IITG)
   2. Bhavya Sharma (IITG)
-  3. Kushagra Pandey (IITG)
+  3. Srijan Sankrit (IITG)
 
 ##  **Idea**
  
